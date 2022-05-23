@@ -1,10 +1,53 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Luke Thomas
 
-Welcome Lukecoder17,
+## Junior Programmer
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+[View deployed site here](https://)
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Gitpod and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **September 1, 2021**
+A comprehensive website for a traditional artist and peole with a keen eye for fine detail based in London, Great England. 
+Website features a gallery of the artist's work and a sign-up page. 
+The primary goal of the website is to lead potential customers to making to visit our exhibitions around London. 
+
+The business goals of this website are:
+* Build brand awareness.
+* Provide high quality examples of the artist's drawings and paintings.
+* Drive sales in the form of first contact (via the index.html page) that will then lead to a client booking to visit our exhibitions. 
+* Excellent UX to keep potential clients on site long enough to fill out the contact form.
+
+The customer goals of this website are:
+* Searching for high quality, to witness pieces of history. 
+* Clear easy to find our exhibition.
+* Intuitive sign-up process.
+
+## UX
+
+#### Ideal client
+
+##### The ideal client for this business is:
+* An artist or admirer.
+* Has disposable income.
+* Is a over 18.
+* Lives in the London (but can be anywhere in the world).
+
+##### Visitors to this website are searching for:
+* A service that allows for lovers of art to be able to witness history in real time. 
+* And/or a lovely date. 
+
+##### This project is the best way to help them achieve these things because:
+* Most artists' websites have very poor UX. 
+* Other artists' websites are over complicated and produce information overload quickly. 
+* This website is:
+    * Easy to navigate.
+    * Steps the client through easy to understand learnable information.
+    * Gives the client the information they need without overloading them.
+    * Guiding them to the goal of the website - to fill out the contact form.
+
+ ## Features
+
+Each page features a responsive **navigation bar** with conventional placing of **logo** (top left).
+Each page has a **footer** with **copyright information** and **social media icons** linking to 4 social media pages. 
+ 
+The purpose of the images is to grab attention and give a positive emotional response to the user. 
 
 ## Gitpod Reminders
 
@@ -35,6 +78,24 @@ To log into the Heroku toolbelt CLI:
 You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
 
 ------
+
+### How to run this project locally
+
+To work on the project code within a local IDE such as VSCode, Pycharm etc:
+1. Follow this link to the [Project GitHub repository](https://github.com/AJGreaves/portrait-artist).
+2. Under the repository name, click "Clone or download".
+3. In the Clone with HTTPs section, copy the clone URL for the repository. 
+4. In your local IDE open the terminal.
+5. Change the current working directory to the location where you want the cloned directory to be made.
+6. Type ```git clone```, and then paste the URL you copied in Step 3.
+```console
+git clone https://github.com/USERNAME/REPOSITORY
+```
+7. Press Enter. Your local clone will be created.
+
+Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
+
+## Credits
 
 ## Release History
 

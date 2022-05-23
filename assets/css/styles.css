@@ -77,7 +77,7 @@ h2 {
 #hero-img {
     height: 600px;
     width: 100%;
-    background: url(../images/hero-img.webp) no-repeat center center;
+    background: url(../images/Starry_Night.png) no-repeat center center;
     /* animates zoom effect on loading page */
     animation-name: hero-zoom;
     animation-duration: 5s;
@@ -186,7 +186,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('../images/ethos-center-image.jpeg') no-repeat center center;
+    background: url('../images/mona_lisa.jpeg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -255,7 +255,7 @@ footer {
 
 .form-section {
     clear: left;
-    background: url("https://codeinstitute.s3.amazonaws.com/FundamentalsProjects/HTML-CSS/formbg.jpg");
+    background: url("https://theartwolf.com/wp-content/uploads/2021/05/Van_Gogh_-_Starry_-_1920-1080.jpg");
     background-size: cover;
     background-position: center;
     height: 900px;
