@@ -186,7 +186,7 @@ hr {
 }
 
 #circle-cover-bg {
-    background: url('../images/mona_lisa.jpeg') no-repeat center center;
+    background: url('/assets/images/white_background.jpeg') no-repeat center center;
     height: 100%;
     border-radius: 50%;
 }
@@ -194,7 +194,7 @@ hr {
 /* event times */
 
 #times {
-    background: url('../images/times-background.webp');
+    background: url('https://www.holland.com/upload_mm/4/8/f/68913_fullimage_vincent_van_gogh.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -217,6 +217,7 @@ hr {
 #times h2 {
     color: #fafafa;
 }
+
 
 /* footer */
 
