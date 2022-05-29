@@ -96,6 +96,7 @@ git clone https://github.com/USERNAME/REPOSITORY
 Further reading and troubleshooting on cloning a repository from GitHub [here](https://help.github.com/en/articles/cloning-a-repository).
 
 ## Credits
+Some code is from code institute
 
 ## Release History
 
